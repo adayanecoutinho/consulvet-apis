@@ -1,0 +1,17 @@
+C:\Users\ADAYANE OLIVEIRA\Documents\Projetos\apis\src\main\java\br\com\consulvet\apis\domain\dto\ExceptionDTO.java
+C:\Users\ADAYANE OLIVEIRA\Documents\Projetos\apis\src\main\java\br\com\consulvet\apis\domain\mapper\AnimalMapper.java
+C:\Users\ADAYANE OLIVEIRA\Documents\Projetos\apis\src\main\java\br\com\consulvet\apis\domain\exception\ForbiddenException.java
+C:\Users\ADAYANE OLIVEIRA\Documents\Projetos\apis\src\main\java\br\com\consulvet\apis\ApisApplication.java
+C:\Users\ADAYANE OLIVEIRA\Documents\Projetos\apis\src\main\java\br\com\consulvet\apis\domain\exception\EntityNotFoundException.java
+C:\Users\ADAYANE OLIVEIRA\Documents\Projetos\apis\src\main\java\br\com\consulvet\apis\domain\repository\TutorRepository.java
+C:\Users\ADAYANE OLIVEIRA\Documents\Projetos\apis\src\main\java\br\com\consulvet\apis\domain\service\AnimalService.java
+C:\Users\ADAYANE OLIVEIRA\Documents\Projetos\apis\src\main\java\br\com\consulvet\apis\domain\entity\Tutor.java
+C:\Users\ADAYANE OLIVEIRA\Documents\Projetos\apis\src\main\java\br\com\consulvet\apis\domain\exception\GlobalExceptionHandler.java
+C:\Users\ADAYANE OLIVEIRA\Documents\Projetos\apis\src\main\java\br\com\consulvet\apis\domain\repository\AnimalRepository.java
+C:\Users\ADAYANE OLIVEIRA\Documents\Projetos\apis\src\main\java\br\com\consulvet\apis\domain\mapper\TutorMapper.java
+C:\Users\ADAYANE OLIVEIRA\Documents\Projetos\apis\src\main\java\br\com\consulvet\apis\controller\AnimalController.java
+C:\Users\ADAYANE OLIVEIRA\Documents\Projetos\apis\src\main\java\br\com\consulvet\apis\domain\entity\Animal.java
+C:\Users\ADAYANE OLIVEIRA\Documents\Projetos\apis\src\main\java\br\com\consulvet\apis\domain\service\TutorService.java
+C:\Users\ADAYANE OLIVEIRA\Documents\Projetos\apis\src\main\java\br\com\consulvet\apis\controller\TutorController.java
+C:\Users\ADAYANE OLIVEIRA\Documents\Projetos\apis\src\main\java\br\com\consulvet\apis\domain\dto\AnimalDTO.java
+C:\Users\ADAYANE OLIVEIRA\Documents\Projetos\apis\src\main\java\br\com\consulvet\apis\domain\dto\TutorDTO.java
